@@ -15,7 +15,7 @@ using namespace std;
 int main() {
 
     //USUNAC
-    int hp_przeciwnika = 50;
+    int hp_przeciwnika = 20;
     //USUNAC
     HANDLE hOut;
     hOut = GetStdHandle(STD_OUTPUT_HANDLE);
